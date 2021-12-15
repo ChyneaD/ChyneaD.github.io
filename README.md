@@ -8,7 +8,7 @@ As a third-year student this was my first course at Dalhousie University which w
 
 
 
-Some of my favourite things I've written were for NESC 3505, albeit in a different format than normal. 
+Some of my favourite things I've written in this neural data science course, albeit in a different format than normal. 
 An example of this is [formatting style for info presentation](Formatting.md) 
 
 
