@@ -13,11 +13,13 @@ sns.set_style('white')
 sns.displot(data=df, x='rt_ms', hue='flankers')
 plt.show()
 ```
-
 ![Alt text](./WhiteBar.png)
+
+
 
 #Now we change to a dark style
 sns.set_style('dark')
+
 sns.displot(data=df, x='rt_ms', hue='flankers')
 plt.show()
 ```
