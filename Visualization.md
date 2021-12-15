@@ -48,4 +48,5 @@ sns.catplot(kind='bar',
            x='flankers', y='log_rt')
 
 plt.show()
-![Alt text](./BarGraph)
+
+![Alt text](./BarGraph.png)
