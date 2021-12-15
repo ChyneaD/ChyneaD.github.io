@@ -12,6 +12,7 @@ import seaborn as sns
 sns.set_style('white')
 sns.displot(data=df, x='rt_ms', hue='flankers')
 plt.show()
+```
 
 ![Alt text](./WhiteBar.png)
 
