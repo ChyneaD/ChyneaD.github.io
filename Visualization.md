@@ -1,6 +1,6 @@
 ## Visualization of Data
 
-#### One of the best things I have learned for processing data beyond looking at tables is how to use packages form matplotlib to represent data as histograms, box plots, and bar plots.
+#### One of the best things I have learned for processing data beyond looking at tables is how to use packages from seaborn to represent data as histograms, box plots, and bar plots.
 
 ##### An interesting feature of this is setting the background to different colours.
 
@@ -25,9 +25,15 @@ sns.catplot(kind='box',
            x='flankers', y='rt_ms')
 plt.show()
 
-sns.catplot(kind='box',
+![image](https://user-images.githubusercontent.com/94612613/146229133-e3b98035-bd1d-48cb-937d-f2e2eb143394.png)
+
+
+sns.catplot(kind='bar',
            data=df,
            x='flankers', y='log_rt')
 
 plt.show()
+
+![image](https://user-images.githubusercontent.com/94612613/146229095-69260c34-dd08-411b-8599-47fdd387df75.png)
+
 ```
