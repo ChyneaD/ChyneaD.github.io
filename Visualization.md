@@ -27,8 +27,11 @@ plt.show()
 
 ```
 ```
-# If a histogram isn't the best type of representation for your data, there are also code options for box plots and bar plots:
-# Box plots and bar plots are changed very easily using matplotlib as you simply need to replace the phase kind='box' with kind='bar'
+# Sometimes it's nice to have different types of representation
+
+
+#If a histogram isn't the best type of representation for your data, there are also code options for box plots and bar plots:
+#Box plots and bar plots are changed very easily using seaborn
 sns.catplot(kind='box',
            data=df,
            x='flankers', y='rt_ms')
@@ -36,10 +39,9 @@ plt.show()
 
 ![Alt text](./BoxGraph.png)
 
-
-
-
-
+```
+```
+#replace the phase kind='box' with kind='bar'
 sns.catplot(kind='bar',
            data=df,
            x='flankers', y='log_rt')
@@ -47,5 +49,4 @@ sns.catplot(kind='bar',
 plt.show()
 
 
-
-```
+![Alt text](./BarGraph)
