@@ -27,7 +27,7 @@ plt.show()
 
 ```
 ```
-## Sometimes it's nice to have different types of representation
+### Sometimes it's nice to have different types of representation
 
 
 #If a histogram isn't the best type of representation for your data, there are also code options for box plots and bar plots:
