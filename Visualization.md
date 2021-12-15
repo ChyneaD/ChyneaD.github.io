@@ -37,6 +37,7 @@ plt.show()
 sns.catplot(kind='box',
            data=df,
            x='flankers', y='rt_ms')
+           
 plt.show()
 
 ![Alt text](./BoxGraph.png)
