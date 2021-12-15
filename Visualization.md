@@ -1,4 +1,4 @@
-# Visualization of Data
+# Chynea Drummond's Visualization of Data
 
 
 ```
