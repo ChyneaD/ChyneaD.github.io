@@ -1,5 +1,7 @@
 # NESC-3505
 NESC 3505 Portfolio Space
+
+### Welcome to my page, my name is Chynea Drummond.
 As a third-year student in NESC 3505, this was my first exposure to coding! What I've created are the pieces of information I found most interesting so far, which might help others present their work in a more aesthetically pleasing or efficient manner. 
 
 
