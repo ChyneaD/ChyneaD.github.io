@@ -6,7 +6,6 @@ import seaborn as sns
 # An interesting feature of this is changing background colours
 #This is the line which makes a difference when plotting
 #by changing the style to 'dark' the graph as a unit stands out more.
-#The 'whitegrid' style would be most useful in a graphical sense where you need to visually determine which points something may be located in relation to the bin number, it makes it easier to follow visually, especially for those how may have poor visual interpretation skills. The 'ticks' setting is another useful setting which may be less visually disruptive in presentation, but still provide better guidance as to where the bin locations are in relation to the spread of the data.
 
 #The default is a histogram.
 sns.set_style('white')
