@@ -25,6 +25,8 @@ sns.catplot(kind='box',
            x='flankers', y='rt_ms')
 plt.show()
 
+
+
 ![image](https://user-images.githubusercontent.com/94612613/146229133-e3b98035-bd1d-48cb-937d-f2e2eb143394.png)
 
 
@@ -34,6 +36,7 @@ sns.catplot(kind='bar',
 
 plt.show()
 
-![image](https://user-images.githubusercontent.com/94612613/146229095-69260c34-dd08-411b-8599-47fdd387df75.png)
+
+![Bar plot](https://user-images.githubusercontent.com/94612613/146230038-e7f04f13-02bd-4151-9ba6-794ba6f1d961.png)
 
 ```
