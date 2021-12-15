@@ -41,12 +41,11 @@ plt.show()
 
 ```
 ```
+
 #replace the phase kind='box' with kind='bar'
 sns.catplot(kind='bar',
            data=df,
            x='flankers', y='log_rt')
 
 plt.show()
-
-
 ![Alt text](./BarGraph)
