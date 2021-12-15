@@ -15,14 +15,13 @@ plt.show()
 ```
 ![Alt text](./WhiteBar.png)
 
-
+```
 
 #Now we change to a dark style
 sns.set_style('dark')
-
 sns.displot(data=df, x='rt_ms', hue='flankers')
 plt.show()
-```
+````
 ![Alt text](./DarkGraph.png)
 
 ###### If a histogram isn't the best type of representation for your data, there are also code options for box plots and bar plots:
