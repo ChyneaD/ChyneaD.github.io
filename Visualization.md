@@ -24,15 +24,17 @@ plt.show()
 ````
 ![Alt text](./DarkGraph.png)
 
-###### If a histogram isn't the best type of representation for your data, there are also code options for box plots and bar plots:
-
 
 ```
+```
+# If a histogram isn't the best type of representation for your data, there are also code options for box plots and bar plots:
 # Box plots and bar plots are changed very easily using matplotlib as you simply need to replace the phase kind='box' with kind='bar'
 sns.catplot(kind='box',
            data=df,
            x='flankers', y='rt_ms')
 plt.show()
+
+![Alt text](./BoxGraph.png)
 
 
 
