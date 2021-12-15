@@ -2,7 +2,7 @@
 NESC 3505 Portfolio Space
 
 ### Welcome to my page, my name is Chynea Drummond.
-As a third-year student in NESC 3505, this was my first exposure to coding! What I've created are the pieces of information I found most interesting so far, which might help others present their work in a more aesthetically pleasing or efficient manner. 
+As a third-year student this was my first course at Dalhousie University which was dedicated to coding and neuroscience imaging. What I've created are the pieces of information I found most interesting so far, which might help others present their work in a more aesthetically pleasing or efficient manner. 
 
 
 
